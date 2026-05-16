@@ -22,4 +22,9 @@ This project features a robot built using Arduino that has the following capabil
 
 **How It Works:**
 
-The robot primarily responds to Bluetooth commands for manual control. However, when an obstacle comes within 20 cm, the robot automatically changes its path to avoid the obstacle.
+The robot primarily responds to Bluetooth commands for manual control. However, when an obstacle comes within 20 cm, the robot automatically reroutes its path to avoid it.
+
+**What app should you use?**
+*After a lot of testing with different apps, I found out that the most effective app for this project is "Arduino Bluetooth Controller" By GiriStudio.*
+
+https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control&hl=en-US
