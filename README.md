@@ -27,5 +27,5 @@ The robot primarily responds to Bluetooth commands for manual control. However, 
 **What app should you use:**
 
 *After a lot of testing with different apps, I found out that the most effective app for this project is
-"Arduino Bluetooth Controller"[https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control&hl=en-US]
+["Arduino Bluetooth Controller"](https://play.google.com/store/apps/details?id=com.giristudio.hc05.bluetooth.arduino.control&hl=en-US)
 By GiriStudio.*
