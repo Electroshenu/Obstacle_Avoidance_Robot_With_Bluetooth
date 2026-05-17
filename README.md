@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Others/Robot.jpeg" alt="Robot" width="600">
+<img src="Others/Robot.jpeg" alt="Robot" width="200" height="200">
 </p>
 
 
