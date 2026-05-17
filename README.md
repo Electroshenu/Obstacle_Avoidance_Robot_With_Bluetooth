@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="Others/Robot.png" alt="Robot" width:200px;">
-</div>
-
+<p align="center">
+ <img src="Others/Robot.png" alt="png" width="200" height = "200">
+</p>
 
 
 
