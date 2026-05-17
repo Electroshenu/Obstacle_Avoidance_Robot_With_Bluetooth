@@ -11,7 +11,7 @@ This project features a robot built using Arduino that has the following capabil
 
 
 
-##Components:
+**Components:**
 
 - Arduino UNO
 - HC-05 Bluetooth module
