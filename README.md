@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="Others/Robot.png" alt="Robot" style="border-radius:20px; width:200px;">
+</div>
+
+
+
+
 # Bluetooth and Obstacle-Avoiding Robot
 
 
