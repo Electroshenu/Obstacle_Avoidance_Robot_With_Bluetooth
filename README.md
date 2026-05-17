@@ -1,3 +1,9 @@
+<p align="center">
+<img src="Others/Robot.jpeg" alt="Robot" width="600">
+</p>
+
+
+
 # Bluetooth and Obstacle-Avoiding Robot
 
 
