@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Others/Robot.jpeg" alt="Robot" style="border-radius:15px; width:300px;">
+  <img src="Others/Robot.jpeg" alt="Robot" style="border-radius:15px; width:250px;">
 </div>
 
 
